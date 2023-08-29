@@ -62,21 +62,21 @@ A search bar is implemented to facilitate easy filtering of products based on th
 2. Navigate to the project directory:
 
     ```sh
-        cd your-repo
+    cd your-repo
     ```
-3. ```sh
-  npm install
-   
-   ```
+3.  npm install  
+    ```sh
+    ```
 4. Running the application
     ```sh
     npm run dev
-    
     ```
-### Contributing
+
+
+## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in CONTRIBUTING.md.
 
-### Contact
+## Contact
 For any inquiries or feedback, feel free to reach out to romerolae@gmail.com or connect with me on LinkedIn.
 
