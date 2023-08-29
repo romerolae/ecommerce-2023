@@ -7,12 +7,16 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+-----
 
+###### Deployment in NetlyFly
+![Static Badge](https://img.shields.io/badge/romerolae%40gmail.com-8A2BE2)   ![Static Badge](https://img.shields.io/badge/linkedin.com/in/romerolae/-green)
 
+- 🏍 [EasyMerchant e-commerce](https://phenomenal-ecommerce.netlify.app/).
 
 # E-Commerce React Application
 
-Welcome to the E-Commerce React Application! This project is built using React and Vite, with TailwindCSS for styling. It utilizes the `react-router-dom` library for routing, and various React hooks including `useState`, `useEffect`, and `useContext` for managing the application's state. The project makes use of icons from [Heroicons](https://heroicons.com/), and fetches product data from the [FakeStore API](https://fakestoreapi.com/).
+Welcome to my E-Commerce React Application! This project is built using React and Vite, with TailwindCSS for styling. It utilizes the `react-router-dom` library for routing, and various React hooks including `useState`, `useEffect`, and `useContext` for managing the application's state. The project makes use of icons from [Heroicons](https://heroicons.com/), and fetches product data from the [FakeStore API](https://fakestoreapi.com/).
 
 ## Features
 
@@ -64,8 +68,9 @@ A search bar is implemented to facilitate easy filtering of products based on th
     ```sh
     cd your-repo
     ```
-3.  npm install  
+3. Installation  
     ```sh
+    npm install
     ```
 4. Running the application
     ```sh
@@ -78,5 +83,5 @@ A search bar is implemented to facilitate easy filtering of products based on th
 Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in CONTRIBUTING.md.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out to romerolae@gmail.com or connect with me on LinkedIn.
+For any inquiries or feedback, feel free to reach out to romerolae@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/romerolae/) .
 
